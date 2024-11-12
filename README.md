@@ -1,4 +1,4 @@
-![.](img\Turnover.png)
+![.](img/Turnover.png)
 
 ## 🔁 Turnover
 
